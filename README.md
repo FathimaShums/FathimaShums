@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there! 👋 I'm Fathima Sara Shums
 
-<!--
-**FathimaShums/FathimaShums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and a computer science student with a growing interest in web and mobile development, AI, and data science. I love tackling complex problems and building applications that make a difference.
 
-Here are some ideas to get you started:
+🚀 About Me
+💻 Actively learning Laravel, Flutter, and focusing on data structures and algorithms.
+🌱 Driven by a desire to learn AI and machine learning to contribute to future innovations in technology.
+🎮 Enjoy exploring the intersection of coding and creativity, especially through fun projects and engaging with new tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+
+Languages: PHP, Dart, C++, JavaScript, and SQL
+Frameworks & Libraries: Laravel, Flutter, and Tailwind CSS
+Tools: XAMPP, Visual Studio Code, Git
+📈 GitHub Stats
+
+📫 How to Reach Me
+
+LinkedIn:https://www.linkedin.com/in/fathima-sara-shums-00543431b/
