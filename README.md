@@ -10,8 +10,11 @@ I'm a passionate developer and a computer science student with a growing interes
 🔧 Technologies & Tools
 
 Languages: PHP, Dart, C++, JavaScript, and SQL
+
 Frameworks & Libraries: Laravel, Flutter, and Tailwind CSS
+
 Tools: XAMPP, Visual Studio Code, Git
+
 📈 GitHub Stats:
 
 
