@@ -13,7 +13,10 @@ Languages: PHP, Dart, C++, JavaScript, and SQL
 Frameworks & Libraries: Laravel, Flutter, and Tailwind CSS
 Tools: XAMPP, Visual Studio Code, Git
 📈 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=FathimaShums)](https://github.com/FathimaShums/github-readme-stats)
+
+
+[![FathimaShums's GitHub stats](https://github-readme-stats.vercel.app/api?username=FathimaShums)](https://github.com/FathimaShums/github-readme-stats)
+
 
 
 📫 How to Reach Me
